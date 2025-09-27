@@ -71,5 +71,5 @@ Economic Freedom Index sendiri menilai **184 negara** berdasarkan 12 indikator u
 
 ---
 
-## Untuk lebih memvaca lebih dalam, Paper Penelitian ini berada di https://doi.org/10.1109/ICORIS63540.2024.10903728
+## Untuk membaca lebih dalam, Paper Penelitian ini berada di https://doi.org/10.1109/ICORIS63540.2024.10903728
 
